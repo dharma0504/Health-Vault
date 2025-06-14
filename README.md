@@ -75,3 +75,12 @@ npm start       # Opens frontend at http://localhost:3000
 
 # Optional: If using json-server separately
 # json-server --watch db.json --port 5000
+
+
+## 👨‍💻 Created By
+
+**Dharmatej Mallampati**
+
+Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dharmatej-mallampati-47944724a/)
+
