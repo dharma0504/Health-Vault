@@ -74,7 +74,7 @@ npm install
 npm start       # Opens frontend at http://localhost:3000
 
 # Optional: If using json-server separately
-# json-server --watch db.json --port 5000
+json-server --watch db.json --port 5000
 
 
 ## 👨‍💻 Created By
